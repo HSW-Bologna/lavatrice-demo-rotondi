@@ -1,0 +1,8 @@
+cache/
+.cache/
+*.o
+.env
+export.sh
+.ninja_deps
+.ninja_log
+compile_commands.json

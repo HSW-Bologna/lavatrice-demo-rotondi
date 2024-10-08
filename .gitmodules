@@ -1,0 +1,9 @@
+[submodule "libs/lvgl"]
+	path = libs/lvgl
+	url = https://github.com/lvgl/lvgl.git
+[submodule "libs/c-stopwatch"]
+	path = libs/c-stopwatch
+	url = https://github.com/Maldus512/c-stopwatch.git
+[submodule "libs/c-page-manager"]
+	path = libs/c-page-manager
+	url = https://github.com/Maldus512/c-page-manager.git
